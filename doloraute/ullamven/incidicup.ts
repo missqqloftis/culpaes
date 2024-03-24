@@ -1,0 +1,1 @@
+setActiveGame(game: GameServer): void;
